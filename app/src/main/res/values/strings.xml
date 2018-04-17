@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Celsius</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3029741212043719/7361416328</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

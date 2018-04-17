@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "797279203588",
+    "firebase_url": "https://mausam-dd601.firebaseio.com",
+    "project_id": "mausam-dd601",
+    "storage_bucket": "mausam-dd601.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797279203588:android:c923b0c895f38dda",
+        "android_client_info": {
+          "package_name": "com.example.dell.mausam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797279203588-ekoeiqddv5snfqhts1s5pquniduk2ft6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dell.mausam",
+            "certificate_hash": "a2ecd89e44a5004ebba9eef0a2e86df0f87afe70"
+          }
+        },
+        {
+          "client_id": "797279203588-kg8vls80kluhhldsjbjpj7qteno0nq3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASA42K8x8LnP1YQOLMlE_GRZEmjRuItPw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797279203588-kg8vls80kluhhldsjbjpj7qteno0nq3j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
