@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     xmlns:ads="http://schemas.android.com/apk/res-auto"
     android:layout_height="match_parent"
-    android:background="@color/colorPrimary"
+    android:background="@drawable/img1"
     tools:context="com.example.dell.mausam.WeatherReport">
     <ScrollView
         android:layout_width="match_parent"
@@ -161,7 +161,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:padding="6dp"
-            android:text="Tempeature"
+            android:text="Temperature"
             android:textColor="#fff"
             android:textSize="18dp"
             android:textStyle="bold" />
@@ -416,13 +416,6 @@
 
     </LinearLayout>
 </ScrollView>
-    <ImageButton
-        android:id="@+id/map_button"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
-        android:src="@drawable/common_google_signin_btn_icon_dark"
-        android:layout_margin="10dp"
-        android:layout_alignParentRight="true"/>
+
 
 </RelativeLayout>

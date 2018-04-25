@@ -52,12 +52,6 @@ public class WeatherReport extends AppCompatActivity {
         direction.setText(sharedPreferences.getString("wind_degree", "null"));
         clouds.setText(sharedPreferences.getString("clouds", "null"));
 
-        ImageButton imgbutton = (ImageButton)findViewById(R.id.map_button);
-        imgbutton.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                startActivity(new Intent(WeatherReport.this, MapsActivity.class));
-            }
-        });
+
     }
 }

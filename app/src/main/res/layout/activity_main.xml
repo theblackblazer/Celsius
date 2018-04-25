@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     xmlns:ads="http://schemas.android.com/apk/res-auto"
     android:orientation="vertical"
-    android:background="#2e2728"
+    android:background="@drawable/img"
     tools:context="com.example.dell.mausam.MainActivity">
 
 
@@ -28,9 +28,9 @@
         android:layout_height="wrap_content"
         android:layout_margin="40dp"
         android:padding="10dp"
-        android:background="#000000"
+        android:background="#fff"
         android:text="CHECK WEATHER"
-        android:textColor="#fff"
+        android:textColor="#7ac5cd"
         android:textSize="20dp"
         android:textStyle="bold" />
 
